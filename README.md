@@ -1,6 +1,8 @@
-### Hi there 👋
 
-![Linkedin badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-oliveira-02788190//)
+
+### <samp> Hi there <img width="20px" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" /> </samp>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna/)](https://www.linkedin.com/in/bruna-oliveira-02788190/)
 
 <!--
 **brunaoliveira/brunaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
