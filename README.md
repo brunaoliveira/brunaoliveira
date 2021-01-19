@@ -6,10 +6,14 @@ Computer Science student at UFRGS and Data Science graduate.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna/)](https://www.linkedin.com/in/bruna-oliveira-02788190/)
 
+
 <!--
 ![Bruna's github stats](https://github-readme-stats.vercel.app/api?username=brunaoliveira&count_private=true&theme=dracula&hide=contribs,prs)
 -->
-![Bruna's github stats](https://github-readme-stats.vercel.app/api?username=brunaoliveira&count_private=true&theme=radical&hide=contribs,prs)
+![Bruna's github stats](https://github-readme-stats.vercel.app/api?username=brunaoliveira&count_private=true&theme=radical&hide=contribs,prs&include_all_commits)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaoliveira&layout=compact&theme=radical&count_private=true&exclude_repo=pandas-profiling,kangaroo,unsupervised_learning_T2&langs_count=12)
+
+
 <!--
 **brunaoliveira/brunaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
