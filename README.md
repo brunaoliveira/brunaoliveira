@@ -5,7 +5,7 @@
 Computer Science student at UFRGS and Data Science graduate.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna/)](https://www.linkedin.com/in/bruna-oliveira-02788190/)
-
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pru.u/)](https://www.instagram.com/pru.u/)
 
 <!--
 ![Bruna's github stats](https://github-readme-stats.vercel.app/api?username=brunaoliveira&count_private=true&theme=dracula&hide=contribs,prs)
