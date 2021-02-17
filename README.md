@@ -11,9 +11,7 @@ Computer Science student at UFRGS and Data Science graduate.
 <!--
 ![Bruna's github stats](https://github-readme-stats.vercel.app/api?username=brunaoliveira&count_private=true&theme=dracula&hide=contribs,prs)
 -->
-
 ![Bruna's github stats](https://github-readme-stats.vercel.app/api?username=brunaoliveira&count_private=true&theme=radical&hide=contribs,prs&include_all_commits=false)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaoliveira&layout=compact&theme=radical&count_private=true&exclude_repo=pandas-profiling,kangaroo,unsupervised_learning_T2&langs_count=12)
 
 <!--
